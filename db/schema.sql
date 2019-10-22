@@ -1,5 +1,5 @@
 create database if not exists burgers_db;
-use burgers_db
+use burgers_db;
 
 create table burgers (
 id int not null AUTO_INCREMENT,
